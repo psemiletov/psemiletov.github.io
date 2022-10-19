@@ -3,7 +3,7 @@ IT-related page of Peter Semiletov
 
 
 
-###Курс "Просто С++"
+### Курс "Просто С++"
 
 
 [Урок 1](scpp/001.md)
