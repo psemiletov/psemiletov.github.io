@@ -9,3 +9,11 @@ IT-related page of Peter Semiletov
 [Урок 1](scpp/001.md)
 
 [Урок 2](scpp/002.md)
+
+
+#### Поддержать курс:
+
+* PayPal: peter.semiletov@gmail.com
+
+* биткоин: 1PCo2zznEGMFJey4qFKGQ8CoFK2nzNnJJf
+
