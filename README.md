@@ -10,6 +10,8 @@ IT-related page of Peter Semiletov
 
 [Урок 2](scpp/002.md)
 
+[Урок 3](scpp/003.md)
+
 
 #### Поддержать курс:
 
