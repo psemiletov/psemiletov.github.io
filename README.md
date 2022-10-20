@@ -1,5 +1,4 @@
 # АЙТИШНЫЙ САЙТ ПЕТРА СЕМИЛЕТОВА
-IT-related page of Peter Semiletov
 
 
 ### Мои программы
