@@ -13,7 +13,7 @@
 
 ### Статьи
 
-[Урок 1](articles/arch-migr.md) - *Как перенести Arch Linux на другой винт (с BIOS на UEFI)*
+[ Как перенести Arch Linux на другой винт (с BIOS на UEFI)](articles/arch-migr.md)
 
 
 ### Курс "Просто С++"
