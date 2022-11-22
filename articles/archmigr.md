@@ -72,7 +72,7 @@ arch-chroot /mnt
 
 ```console
 yay -S linux
-``
+```
 либо 
 
 ```console
