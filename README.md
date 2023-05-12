@@ -3,11 +3,14 @@
 
 ### Мои программы
 
-[logfilegen](http://psemiletov.github.io/logfilegen/) - генератор логфайлов в форматах nginx и Apache, с псевдослучайными и статичными значениями.
 
 [TEA - текстовый редактор](http://tea.ourproject.org) для систем Linux, *BSD, Mac, Windows, OS/2 и Haiku. Сотни функций обработки текста, чтение форматов электронных книг, поддержка всех мыслимых кодировок.
 
-[EKO - звуковой редактор](http://psemiletov.github.io/eko/) для Linux и Windows. Нарезка и обработка звуковых файлов, конвертирование, ресэмплинг, эффекты реального времени.      
+[EKO - звуковой редактор](http://psemiletov.github.io/eko/) для Linux и Windows. Нарезка и обработка звуковых файлов, конвертирование, ресэмплинг, эффекты реального времени.
+
+[logfilegen](http://psemiletov.github.io/logfilegen/) - генератор логфайлов в форматах nginx и Apache, с псевдослучайными и статичными значениями.
+
+[Drumrox](https://github.com/psemiletov/drumrox) - LV2 драм-машина с поддержкой драмкитов Hydrogen, форк DrMr.
 
 [UPSM](https://github.com/psemiletov/upsm) - линуксовый монитор ИБП, фронт-энд для Network UPS Tools.
 
