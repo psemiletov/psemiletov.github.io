@@ -1,6 +1,10 @@
 # АЙТИШНЫЙ САЙТ ПЕТРА СЕМИЛЕТОВА
 
 
+###
+
+<a rel="me" href="https://mastodon.social/@semiletov">Mastodon</a>
+
 ### Мои программы
 
 
