@@ -10,6 +10,9 @@
 
 [TEA - текстовый редактор](http://tea.ourproject.org) для систем Linux, *BSD, Mac, Windows, OS/2 и Haiku. Сотни функций обработки текста, чтение форматов электронных книг, поддержка всех мыслимых кодировок.
 
+[Bedroom Studio](https://github.com/psemiletov/bedroomstudio) - LV2-плагины для домашней студии. Дисторшн, овердрайв, фуз и другое.
+
+
 [Drumlabooh](https://github.com/psemiletov/drumlabooh) - LV2/VSTi драм-машина с поддержкой драмкитов Hydrogen, SFZ, Drumlabooh.
 
 [EKO - звуковой редактор](http://psemiletov.github.io/eko/) для Linux и Windows. Нарезка и обработка звуковых файлов, конвертирование, ресэмплинг, эффекты реального времени.
