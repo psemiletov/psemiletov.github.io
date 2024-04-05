@@ -10,8 +10,9 @@
 
 [TEA - текстовый редактор](http://tea.ourproject.org) для систем Linux, *BSD, Mac, Windows, OS/2 и Haiku. Сотни функций обработки текста, чтение форматов электронных книг, поддержка всех мыслимых кодировок.
 
-[Bedroom Studio](https://github.com/psemiletov/bedroomstudio) - LV2-плагины для домашней студии. Дисторшн, овердрайв, фуз и другое.
+[Беседа](https://psemiletov.github.io/beseda/) - консольная, управляемая с клавиатуры читалка вслух электронных книг, для тех, кто плохо видит и для слепых. 
 
+[Bedroom Studio](https://github.com/psemiletov/bedroomstudio) - LV2-плагины для домашней студии. Дисторшн, овердрайв, фуз и другое.
 
 [Drumlabooh](https://github.com/psemiletov/drumlabooh) - LV2/VSTi драм-машина с поддержкой драмкитов Hydrogen, SFZ, Drumlabooh.
 
