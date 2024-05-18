@@ -1,10 +1,6 @@
 # АЙТИШНЫЙ САЙТ ПЕТРА СЕМИЛЕТОВА
 
 
-###
-
-<a rel="me" href="https://mastodon.social/@semiletov">Mastodon</a>
-
 ### Мои программы
 
 
@@ -22,16 +18,17 @@
 
 [Drumrox](https://github.com/psemiletov/drumrox) - LV2 драм-машина с поддержкой драмкитов Hydrogen, форк DrMr.
 
-[UPSM](https://github.com/psemiletov/upsm) - линуксовый монитор ИБП, фронт-энд для Network UPS Tools.
-
 [MTAG](https://github.com/psemiletov/mtag) - линуксовая консольная утилита для записи тэгов в мультимедийные файлы на основе текстовых файлов с тэгами. Таким образом один шаблонный файл тэгов можно применять к нескольким наборам файлов, например в форматах FLAC и MP3.
 
-### Статьи
+### Моя проза
 
-[ Как перенести Arch Linux на другой винт (с BIOS на UEFI)](articles/archmigr.md)
+[Рассказы](stories.md)
+
+[Повести и романы](novels.md)
 
 
 ### Курс "Просто С++"
+
 
 *Курс программирования на С++ для начинающих, или самоучитель программирования с нуля*
 
@@ -70,3 +67,7 @@
 
 * биткоин: 1PCo2zznEGMFJey4qFKGQ8CoFK2nzNnJJf
 
+
+### Статьи
+
+[ Как перенести Arch Linux на другой винт (с BIOS на UEFI)](articles/archmigr.md)
