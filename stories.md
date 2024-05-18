@@ -13,6 +13,21 @@
 
 [Гримуар](https://raw.githubusercontent.com/psemiletov/prose/main/%D0%B3%D1%80%D0%B8%D0%BC%D1%83%D0%B0%D1%80.txt)
 
+[Неумолимый](https://raw.githubusercontent.com/psemiletov/prose/main/%D0%BD%D0%B5%D1%83%D0%BC%D0%BE%D0%BB%D0%B8%D0%BC%D1%8B%D0%B9.txt)
+
 2021
 
 [Дым](https://raw.githubusercontent.com/psemiletov/prose/main/%D0%B4%D1%8B%D0%BC.txt)
+
+2012
+
+[Чтение](https://raw.githubusercontent.com/psemiletov/prose/main/%D1%87%D1%82%D0%B5%D0%BD%D0%B8%D0%B5.txt)
+
+[И бысть тишина](https://raw.githubusercontent.com/psemiletov/prose/main/%D0%B8%20%D0%B1%D1%8B%D1%81%D1%82%D1%8C%20%D1%82%D0%B8%D1%88%D0%B8%D0%BD%D0%B0.txt)
+
+[Качество минт](https://raw.githubusercontent.com/psemiletov/prose/main/%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%D0%BC%D0%B8%D0%BD%D1%82.txt)
+
+
+2010
+
+[Центр атома](https://raw.githubusercontent.com/psemiletov/prose/main/%D1%86%D0%B5%D0%BD%D1%82%D1%80%20%D0%B0%D1%82%D0%BE%D0%BC%D0%B0.txt)
