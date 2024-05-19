@@ -36,6 +36,8 @@
 
 [Центр атома](https://raw.githubusercontent.com/psemiletov/prose/main/%D1%86%D0%B5%D0%BD%D1%82%D1%80%20%D0%B0%D1%82%D0%BE%D0%BC%D0%B0.txt)
 
+[Клуб сыроедов](https://raw.githubusercontent.com/psemiletov/prose/main/%D0%BA%D0%BB%D1%83%D0%B1%20%D1%81%D1%8B%D1%80%D0%BE%D0%B5%D0%B4%D0%BE%D0%B2.txt)
+
 2009
 
 [Дети кометы](https://raw.githubusercontent.com/psemiletov/prose/main/%D0%B4%D0%B5%D1%82%D0%B8%20%D0%BA%D0%BE%D0%BC%D0%B5%D1%82%D1%8B.txt)
