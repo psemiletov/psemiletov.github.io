@@ -7,7 +7,7 @@
 
 2004
 
-[Грёзы]
+[Крайне необязательный молодой человек](https://raw.githubusercontent.com/psemiletov/prose/main/%D0%BC%D0%BE%D0%BB%D1%87%D0%B5%D0%BB.txt)
 
 
 2003
