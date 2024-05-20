@@ -2,7 +2,7 @@
 
 2020
 
-[Дар Божий](https://raw.githubusercontent.com/psemiletov/prose/main/%D0%B4%D0%B0%D1%80.txt) [FB2-книга](https://github.com/psemiletov/prose/raw/main/%D0%B4%D0%B0%D1%80.fb2.zip)
+[Дар Божий](https://raw.githubusercontent.com/psemiletov/prose/main/%D0%B4%D0%B0%D1%80.txt) * [FB2-книга](https://github.com/psemiletov/prose/raw/main/%D0%B4%D0%B0%D1%80.fb2.zip)
 
 2017
 
