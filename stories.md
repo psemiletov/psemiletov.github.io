@@ -37,6 +37,7 @@
 
 [Коряга](https://raw.githubusercontent.com/psemiletov/prose/main/%D0%BA%D0%BE%D1%80%D1%8F%D0%B3%D0%B0.txt)
 
+[Хахаль](https://github.com/psemiletov/prose/blob/main/%D1%85%D0%B0%D1%85%D0%B0%D0%BB%D1%8C.txt)
 
 2010
 
