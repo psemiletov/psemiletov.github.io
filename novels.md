@@ -21,6 +21,8 @@
 
 2006
 
+[Ракета](https://raw.githubusercontent.com/psemiletov/prose/main/%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0.txt)
+
 [Веталь и летающие тарелки](https://raw.githubusercontent.com/psemiletov/prose/main/%D0%B2%D0%B5%D1%82%D0%B0%D0%BB%D1%8C.txt)
 
 2005
