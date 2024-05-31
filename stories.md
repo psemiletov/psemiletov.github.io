@@ -21,9 +21,17 @@
 
 [Дым](https://raw.githubusercontent.com/psemiletov/prose/main/%D0%B4%D1%8B%D0%BC.txt)
 
+2020
+
+[Как настоящий](https://raw.githubusercontent.com/psemiletov/prose/main/%D0%BA%D0%B0%D0%BA%20%D0%BD%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B8%D0%B9.txt)
+
 2018
 
 [Подарков не будет](https://raw.githubusercontent.com/psemiletov/prose/main/%D0%BF%D0%BE%D0%B4%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%20%D0%BD%D0%B5%20%D0%B1%D1%83%D0%B4%D0%B5%D1%82.txt)
+
+2014
+
+[Реликвия (Сантехническая пьеса)](https://raw.githubusercontent.com/psemiletov/prose/main/%D1%80%D0%B5%D0%BB%D0%B8%D0%BA%D0%B2%D0%B8%D1%8F.txt)
 
 2012
 
@@ -57,6 +65,8 @@
 
 2009
 
+[Маша и машина](https://raw.githubusercontent.com/psemiletov/prose/main/%D0%BC%D0%B0%D1%88%D0%B0%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0.txt)
+
 [Дети кометы](https://raw.githubusercontent.com/psemiletov/prose/main/%D0%B4%D0%B5%D1%82%D0%B8%20%D0%BA%D0%BE%D0%BC%D0%B5%D1%82%D1%8B.txt)
 
 [Хвост](https://raw.githubusercontent.com/psemiletov/prose/main/%D1%85%D0%B2%D0%BE%D1%81%D1%82.txt)
@@ -64,11 +74,20 @@
 
 2007
 
+[Татуировка](https://raw.githubusercontent.com/psemiletov/prose/main/%D1%82%D0%B0%D1%82%D1%83%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0.txt)
+
 [Меж двух огней](https://github.com/psemiletov/prose/blob/main/%D0%BC%D0%B5%D0%B6%20%D0%B4%D0%B2%D1%83%D1%85%20%D0%BE%D0%B3%D0%BD%D0%B5%D0%B9.txt)
 
 2006
 
 [Иероглиф](https://raw.githubusercontent.com/psemiletov/prose/main/%D0%B8%D0%B5%D1%80%D0%BE%D0%B3%D0%BB%D0%B8%D1%84.txt)
+
+[ПРИТЧАНИЯ САНАТЕХНИКА](https://raw.githubusercontent.com/psemiletov/prose/main/%D0%BF%D1%80%D0%B8%D1%82%D1%87%D0%B0%D0%BD%D0%B8%D1%8F%20%D1%81%D0%B0%D0%BD%D0%B0%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0.txt)
+
+2005
+
+[С первым встречным](https://raw.githubusercontent.com/psemiletov/prose/main/%D1%81%20%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%BC%20%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%BD%D1%8B%D0%BC.txt)
+
 
 2004
 
