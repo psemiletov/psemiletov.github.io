@@ -51,3 +51,7 @@
 2003
 
 [Незнакомка Аорта](https://raw.githubusercontent.com/psemiletov/prose/main/%D0%B0%D0%BE%D1%80%D1%82%D0%B0.txt)
+
+2002
+
+[Хитин](https://raw.githubusercontent.com/psemiletov/prose/main/%D1%85%D0%B8%D1%82%D0%B8%D0%BD.txt)
