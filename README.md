@@ -1,5 +1,6 @@
 # ПЕТР СЕМИЛЕТОВ
 
+
 ### Исторические труды, краеведение
 
 [Страница ORCID](https://orcid.org/0009-0002-3901-7785)
@@ -68,7 +69,6 @@
 
 * PayPal: peter.semiletov@gmail.com
 
-* биткоин: 1PCo2zznEGMFJey4qFKGQ8CoFK2nzNnJJf
 
 
 ### Статьи
