@@ -14,13 +14,13 @@
 
 [Bedroom Studio](https://github.com/psemiletov/bedroomstudio) - LV2-плагины для домашней студии. Дисторшн, овердрайв, фуз и другое.
 
-[Drumlabooh](https://github.com/psemiletov/drumlabooh) - LV2/VSTi драм-машина с поддержкой драмкитов Hydrogen, SFZ, Drumlabooh.
+[Drumlabooh](https://psemiletov.github.io/drumlabooh/) - LV2/VSTi драм-машина с поддержкой драмкитов Hydrogen, SFZ, Drumlabooh.
 
 [EKO - звуковой редактор](http://psemiletov.github.io/eko/) для Linux и Windows. Нарезка и обработка звуковых файлов, конвертирование, ресэмплинг, эффекты реального времени.
 
 [logfilegen](http://psemiletov.github.io/logfilegen/) - генератор логфайлов в форматах nginx и Apache, с псевдослучайными и статичными значениями.
 
-[Drumrox](https://github.com/psemiletov/drumrox) - LV2 драм-машина с поддержкой драмкитов Hydrogen, форк DrMr.
+[Drumrox](https://psemiletov.github.io/drumrox/) - LV2 драм-машина с поддержкой драмкитов Hydrogen, форк DrMr. Устарел, используйте Drumlabooh.
 
 [MTAG](https://github.com/psemiletov/mtag) - линуксовая консольная утилита для записи тэгов в мультимедийные файлы на основе текстовых файлов с тэгами. Таким образом один шаблонный файл тэгов можно применять к нескольким наборам файлов, например в форматах FLAC и MP3.
 
