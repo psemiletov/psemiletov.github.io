@@ -2,9 +2,9 @@
 
 2020
 
-[Дар Божий](https://raw.githubusercontent.com/psemiletov/prose/main/%D0%B4%D0%B0%D1%80.txt) * [FB2-книга](https://raw.githubusercontent.com/psemiletov/prose/refs/heads/main/%D0%B4%D0%B0%D1%80.fb2)
+[Дар Божий](https://raw.githubusercontent.com/psemiletov/prose/main/%D0%B4%D0%B0%D1%80.txt) * [EPUB-книга](https://github.com/psemiletov/prose/raw/refs/heads/main/%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D0%B6%D0%B8%D0%B9.epub)
 
-[Унитазный блюз](https://raw.githubusercontent.com/psemiletov/prose/main/%D1%83%D0%BD%D0%B8%D1%82%D0%B0%D0%B7%D0%BD%D1%8B%D0%B9%20%D0%B1%D0%BB%D1%8E%D0%B7.txt) * [FB2-книга](https://raw.githubusercontent.com/psemiletov/prose/refs/heads/main/%D1%83%D0%BD%D0%B8%D1%82%D0%B0%D0%B7%D0%BD%D1%8B%D0%B9%20%D0%B1%D0%BB%D1%8E%D0%B7.fb2)
+[Унитазный блюз](https://raw.githubusercontent.com/psemiletov/prose/main/%D1%83%D0%BD%D0%B8%D1%82%D0%B0%D0%B7%D0%BD%D1%8B%D0%B9%20%D0%B1%D0%BB%D1%8E%D0%B7.txt) * [EPUB-книга](https://github.com/psemiletov/prose/raw/refs/heads/main/%D1%83%D0%BD%D0%B8%D1%82%D0%B0%D0%B7%D0%BD%D1%8B%D0%B9%20%D0%B1%D0%BB%D1%8E%D0%B7.epub)
 
 2017
 
